@@ -14,9 +14,9 @@ title: Soliloquies with the Machine
   
 </pre>
 <div class="table-of-contents">
-  <div class="title"><a href="{{ site.baseurl }}/pages/the_machine_of_domination">The Machine of domination</a></div>
+  <div class="title"><a href="{{ site.baseurl }}/pages/the_machine_of_humankind">The Machine of Humankind</a></div>
   <div class="annotation">
-    Wherein the nature of The Machine is discussed and understood.
+    Wherein the nature of The Machine is examined and understood.
   </div>
   <div class="title"><a href="{{ site.baseurl }}/pages/human_machines">Human Machines</a></div>
   <div class="annotation">
