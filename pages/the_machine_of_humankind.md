@@ -4,4 +4,4 @@ title: The Machine of domination
 ---
 ### The Machine of domination
 
-{% include multilogues/the_machine_of_the_humankind.html %}
+{% include multilogues/the_machine_of_humankind.html %}
